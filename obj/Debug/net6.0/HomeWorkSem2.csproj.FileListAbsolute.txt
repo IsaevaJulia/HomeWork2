@@ -1,0 +1,15 @@
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.csproj.AssemblyReference.cache
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.AssemblyInfoInputs.cache
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.AssemblyInfo.cs
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.csproj.CoreCompileInputs.cache
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\bin\Debug\net6.0\HomeWorkSem2.exe
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\bin\Debug\net6.0\HomeWorkSem2.deps.json
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\bin\Debug\net6.0\HomeWorkSem2.runtimeconfig.json
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\bin\Debug\net6.0\HomeWorkSem2.dll
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\bin\Debug\net6.0\HomeWorkSem2.pdb
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.dll
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\refint\HomeWorkSem2.dll
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.pdb
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\HomeWorkSem2.genruntimeconfig.cache
+E:\работа ЮЛЯ\Юля работа\HomeWork\HomeWorkSem2\obj\Debug\net6.0\ref\HomeWorkSem2.dll
